@@ -1,3 +1,5 @@
 added a line 1 in m1 
 
 for branch 1 new word added
+
+some coflicts added 
