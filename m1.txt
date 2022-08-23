@@ -1,2 +1,10 @@
+ branch2
 added a line 1 in m1
 some coflicts added 
+
+added a line 1 in m1 
+
+for branch 1 new word added
+
+
+master
